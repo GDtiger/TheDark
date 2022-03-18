@@ -1,0 +1,18 @@
+﻿ID,ImageID,Type,ItemName,Price,PocketMaxCount,DropRate_Percent,Distance_Tile,EffectRange_Tile,Delay_Turn,ActivePoint,EffectiveType,Number,Duration_Turn,InventoryMaxCount,Target,Description
+Item_001,Item_001,Heal,옅은 그림자,30,3,10,0,0,4,1,HP,3,0,50,Player,체력을 회복하는 그림자. 체력을 3 회복한다
+Item_002,Item_001,Heal,진한 그림자,50,5,5,0,0,4,1,HP,4,0,50,Player,체력을 회복하는 그림자. 체력을 4 회복한다
+Item_003,Item_001,Heal,검은 그림자,100,7,1,0,0,4,1,HP,6,0,50,Player,체력을 회복하는 그림자. 체력을 6 회복한다
+Item_004,Item_004,Attraction,그림자 쏘기,50,3,10,3,1,5,1,EnemyAttraction,0,0,50,Tile,적을 유인하는 그림자
+Item_005,Item_004,Attraction,그림자 보내기,70,4,5,3,2,5,1,EnemyAttraction,0,0,50,Tile,적을 유인하는 그림자
+Item_006,Item_004,Attraction,그림자 만들기,100,5,1,3,3,5,1,EnemyAttraction,0,0,50,Tile,적을 유인하는 그림자
+Item_007,Item_007,Buff,강한 그림자,100,5,10,0,1,6,1,Damage,1,1,50,Player,암살자가 그림자를 사용하여 잠시동안 강력해진다
+Item_008,Item_007,Buff,강력한 그림자,150,5,10,0,1,6,1,Damage,2,1,50,Player,암살자가 그림자를 사용하여 잠시동안 꽤 강력해진다
+Item_009,Item_007,Buff,매우 강력한 그림자,300,5,10,0,2,6,1,Damage,2,2,50,Player,암살자가 그림자를 사용하여 잠시동안 매우 강력해진다
+Item_010,Item_010,Buff,정확한 그림자,100,5,10,0,1,6,1,Accurate,5,1,50,Player,그림자의 힘으로 정확하게 공격하게 된다
+Item_011,Item_010,Buff,확실한 그림자,150,5,10,0,1,6,1,Accurate,10,1,50,Player,그림자의 힘으로 확실하게 공격하게 된다
+Item_012,Item_010,Buff,확정된 그림자,300,5,10,0,2,6,1,Accurate,10,2,50,Player,그림자의 힘으로 매우 정확하게 공격하게 된다
+Item_013,Item_013,Buff,빠른 그림자,100,5,3,0,1,6,1,Move,1,1,50,Player,그림자가 암살자를 빠르게 이동시켜준다
+Item_014,Item_013,Buff,광속 그림자,200,3,3,0,2,6,1,Move,1,2,50,Player,그림자가 암살자를 매우 빠르게 이동시켜준다
+Item_015,Item_015,Trap,느린 그림자,20,5,10,1,1,5,1,Move,1,1,50,Tile,그림자가 적을 느리게 만들어 이동력을 낮춘다
+Item_016,Item_016,Trap,실명 그림자,40,5,8,1,1,5,1,Vision,1,1,50,Tile,그림자가 적의 눈을 멀게 한다
+Item_017,Item_017,Trap,충격 그림자,60,5,5,1,1,5,1,Turn,1,1,50,Tile,그림자가 적을 충격에 빠뜨린다

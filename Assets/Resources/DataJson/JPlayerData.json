@@ -1,0 +1,1 @@
+{"playerID":0,"hp":15,"maxHP":15,"mana":10,"maxMana":10,"damage":5,"criticalChance":15.0,"maxMoveRange":6,"attackRange":1,"attackNoiseRange":2,"normalAttackID":"Normal Attack","pocket":[],"skills":["ShadowStep","Rage","SuddenAttack"],"skillCoolTimeRemain":[0,0,0]}
